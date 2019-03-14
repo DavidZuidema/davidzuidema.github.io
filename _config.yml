@@ -1,9 +1,9 @@
 # Site settings
-title: Zubacca
-email: david@zubacca.com
-description: "Haskell and Web Development Stuff"
+title: David Zuidema
+email: david@palaverist.com
+description: "Musings of a Master Software Craftsman"
 baseurl: ""
-url: "http://zubacca.com"
+url: "https://www.palaverist.com/"
 twitter_username: davidzuidema
 github_username:  davidzuidema
 
